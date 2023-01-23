@@ -1,0 +1,40 @@
+@media screen and (max-width:600px) {
+    .store{
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-items: center;
+    }
+    header nav ul{
+        list-style: none;
+    }
+    header nav ul{
+        text-align: center;
+    }
+    .home{
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-items: center;
+    }
+    .abs{
+        position: absolute;
+        top: -2%;
+        left: 0%;
+        padding-right: 20px;
+        background-color: black;
+        width: 100%;
+       opacity: 1;
+    }
+    .abs a{
+        font-size: 15px;
+    }
+    #close a{
+        display: none;
+    }
+   
+}
+
+
+
+.abs a{
+    color: aliceblue;
+}
