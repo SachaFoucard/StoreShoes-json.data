@@ -11,3 +11,8 @@
 - UseEffect
 - Json Data
 
+## Explication
+- All products are saves in Json into the public folder
+- There is 4 differents pages
+- On the first page print just discount products (filter)
+- On the Store page print all products from the store 
